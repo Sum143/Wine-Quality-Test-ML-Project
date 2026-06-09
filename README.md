@@ -95,7 +95,7 @@ training data and taking a majority vote.
 ---
 
 ## 👤 Submitted by
-- **Name:** [Your Name]
-- **Enrollment ID:** [Your ID]
+- **Name:** Suman Prasad Gouda
+- **Enrollment ID:** 81011200825
 - **Dataset:** Red Wine Quality (UCI ML Repository)
 - **Model:** KNN Classifier
